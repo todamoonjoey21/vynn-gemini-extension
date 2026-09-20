@@ -1,0 +1,11 @@
+{
+  "name": "vynn-grocery-prices",
+  "version": "1.0.0",
+  "description": "Compare nightly-observed Canadian grocery prices with Vynn.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "vynn": {
+      "httpUrl": "https://api.vynn.ai/consumer/mcp/gemini"
+    }
+  }
+}
